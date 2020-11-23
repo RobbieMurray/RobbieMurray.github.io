@@ -1,0 +1,14 @@
+body{
+    display: grid;
+    place-items: center;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
+a{
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+}
+li{
+    list-style-type: none; 
+}
